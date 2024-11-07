@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 char fuel;
 int fueltypeamount,paymentmethod,change,cash,pin,amount,i,n;
@@ -228,11 +227,3 @@ void bill()
     printf ("\tQuantity:%d kws\n",fueltypeamount);  
     }
 }
-		
-	   
-
-
-
-
-
-
