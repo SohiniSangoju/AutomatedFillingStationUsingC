@@ -41,7 +41,7 @@ void solve()
   else if (fuel == 'c' || fuel == 'C')
     {
       printf ("Today's CNG rate is 97 per kg.\n");
-      printf("Enter the amount of DIESELL to be filled in your vehicle in kilograms:");
+      printf("Enter the amount of CNG filled in your vehicle in kilograms:");
       fuel1();
     }
   else if (fuel == 'e' || fuel == 'E')
